@@ -1,12 +1,12 @@
 # zynq7015_linux_base
-####zynq armv7 embeded linux fs whit PS ETH and serial port 
 
-#### build version
-##### Ubuntu 16.04
-##### Petalinux 2017.4
-##### Vivado 2017.4
+#### zynq armv7 embeded linux fs whit PS ETH and serial port 
+#### Build version
+##### --Ubuntu 16.04
+##### --Petalinux 2017.4
+##### --Vivado 2017.4
 
-### Step
+### running Step
 ##### 1 copy the image.ub and BOOT.bin to sd/tf card (format the card to fat32 if not)
 ##### 2 config the board start from sd card
 ##### 3 connect to serial cable and plug the card to board, Then power on！
