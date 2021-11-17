@@ -3,7 +3,7 @@
 
 ##### 1 copy the image.ub and BOOT.bin to sd/tf card (format the card to fat32 if not)
 ##### 2 config the board start from sd card
-##### 3 connect to serial cable and plug the card to board, Then poweron
+##### 3 connect to serial cable and plug the card to board, Then power on！
 ##### 4 open the serial terminal in the pc , watch the output
 
 
